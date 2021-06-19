@@ -12,7 +12,7 @@ function setup() {
   world = engine.world;
 
   ball = new Ball(200, 200, 80, 80);
-//
+rope = new Rope(200,200,80,80
 
 }
 
